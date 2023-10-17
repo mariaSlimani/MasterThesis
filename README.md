@@ -4,13 +4,15 @@
 
 This repository contains the Master's thesis conducted as part of the Master 2 program at ESI-Algiers. The thesis is a state of the arts exploring the integration of cridibility in the task of opinion mining. 
 
+**[Link to the pdf file](https://mariaslimani.github.io/MasterThesis/MSL1408%20SLIMANI.pdf)**
+
 ## Thesis Details
 
 - **Title:** Etat de l’art sur l’intégration de la crédibilité dans la tâche de fouille d’opinion
 - **Author:** Wassila Maria Slimani
 - **University:** Ecole nationale Supérieure d’Informatique ESI, Oued Smar Alger, Algérie
 - **Year:** 2023
-- **Link:** https://mariaslimani.github.io/MasterThesis/MSL1408%20SLIMANI.pdf
+
 ## Abstract
 
 Nowadays, social platforms appear as essential sources of evidence for companies that need to target potential consumers wishing to buy their products/services. Social networks are experiencing growing interest in various scientific and commercial circles. Indeed, companies are often concerned about their online identity, as they are aware that their reputation can be affected or even destroyed by a comment or a review, which is why they try to better understand the expectations and criticisms that Internet users address them, and they attempt to characterize them according to two axes :
@@ -40,4 +42,4 @@ howpublished = {https://mariaslimani.github.io/MasterThesis/}
 }
 ```
 ## Questions or Collaborations
-If you have any questions, feedback, or potential collaboration opportunities related to this thesis, please feel free to contact me on : iw_slimani@esi.dz.
+If you have any questions, feedback, or potential collaboration opportunities related to this thesis, please feel free to contact me on [my email address](iw_slimani@esi.dz).
