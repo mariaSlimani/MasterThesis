@@ -31,7 +31,7 @@ This thesis is licensed under the [Creative Commons Attribution 4.0 Internationa
 
 If you use information from this thesis in your work, please cite it using the following BibTeX entry:
 ```bibtex
-@mastersthesis{Slimani2023,
+@mastersthesis{MasterSlimani2023,
 author = {Wassila Maria Slimani},
 title = {Etat de l’art sur l’intégration de la crédibilité dans la tâche de fouille d’opinion},
 school = {Ecole nationale Supérieure d’Informatique ESI, Oued Smar Alger, Algérie},
