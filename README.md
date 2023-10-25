@@ -6,6 +6,8 @@ This repository contains the Master's thesis conducted as part of the Master 2 p
 
 **[Link to the pdf file](https://mariaslimani.github.io/MasterThesis/MSL1408%20SLIMANI.pdf)**
 
+**[Link to the master poster](https://mariaslimani.github.io/MasterThesis/MSL1408%20SLIMANI_poster.pdf)**
+
 ## Thesis Details
 
 - **Title:** Etat de l’art sur l’intégration de la crédibilité dans la tâche de fouille d’opinion
